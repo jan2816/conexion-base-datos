@@ -1,6 +1,6 @@
-create database Practica
-go
-use Practica
+create database tiendajv
+
+use tiendajv
 
 create table Productos 
 (
